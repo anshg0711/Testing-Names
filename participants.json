@@ -1,4 +1,13 @@
-I am Ansh
-My roll number is IIT2020237
-IIITA
+[
+  {
+    name=" Ansh",
+enroll=" IIT2020237",
+college=" IIITA"
+  },
+  {
 
+name=" ballu",
+enroll=" IIT2020246",
+college=" IIITA"
+  }
+  ]
