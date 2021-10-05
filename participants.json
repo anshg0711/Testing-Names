@@ -1,24 +1,27 @@
-
 [
   {
-    "name":" Ansh",
-    "enroll":" IIT2020237",
-    "college": "IIITA"
-  },{
-    "name":"Baljot",
-    "enroll":" IIT2020246",
+    "name": " Ansh",
+    "enroll": " IIT2020237",
     "college": "IIITA"
   },
   {
-    "name":" Sarthak",
-    "enroll":" IIT2020222",
-    "college":" IIITA"
-  },{
-    "name":" Archit",
-    "enroll":" IIT2020503",
-    "college":" IIITA"
+    "name": "Baljot",
+    "enroll": " IIT2020246",
+    "college": "IIITA"
+  },
+  {
+    "name": " Sarthak",
+    "enroll": " IIT2020222",
+    "college": " IIITA"
+  },
+  {
+    "name": " Archit",
+    "enroll": " IIT2020503",
+    "college": " IIITA"
+  },
+  {
+    "name": " Nikita",
+    "enroll": " IIB2020042",
+    "college": " IIITA"
   }
- 
-
 ]
-
