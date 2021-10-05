@@ -1,3 +1,4 @@
+
 [
   {
     "name":" Ansh",
@@ -7,6 +8,11 @@
     "name":"Baljot",
     "enroll":" IIT2020246",
     "college": "IIITA"
+  },
+  {
+    "name":" Sarthak",
+    "enroll":" IIT2020222",
+    "college":" IIITA"
   }
  
 
