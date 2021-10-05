@@ -5,11 +5,11 @@ Add your Information in Participants.json
 Format 
 
 {
-
-I am Ansh
-
-My roll number is IIT2020237
-
-IIITA
-
-}
+   
+    "name":" Ansh",
+    
+    "enroll":" IIT2020237",
+    
+    "college":" IIITA"
+    
+},
